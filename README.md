@@ -1,7 +1,7 @@
 # Basic-Scripts.nasm 
-Once again, I'm here with a new project!
+Once again, I'm here with a new project! 😁
 
-This time, the idea was based on some exercises from my computer architecture class. (They aren't complex scripts, but they served as a great gateway for me to learn more about NASM, which I hope to work with more in the future). 😁
+This time, the idea was based on some exercises from my computer architecture class. (They aren't complex scripts, but they served as a great gateway for me to learn more about NASM, which I hope to work with more in the future). 
 
 + ⚠ This summary will only serve as a way to explain what each script does. In addition to it, there are also some comments within the code that can help in understanding the structure.
 
